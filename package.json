@@ -1,0 +1,29 @@
+{
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "push": "node release.script.js",
+    "standard-version": "standard-version",
+    "postpublish": "wb-npm-notice"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^13.1.0",
+    "@commitlint/config-conventional": "^13.1.0",
+    "commitizen": "^4.2.4",
+    "cz-lerna-changelog": "^2.0.3",
+    "eslint": "^7.32.0",
+    "eslint-plugin-import": "^2.24.2",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "eslint-plugin-promise": "^5.1.0",
+    "eslint-plugin-standard": "^5.0.0",
+    "eslint-plugin-vue": "^7.17.0",
+    "eslint-plugin-vue-libs": "^4.0.0",
+    "lerna": "^4.0.0",
+    "lint-staged": "^11.1.2",
+    "standard": "^16.0.3",
+    "wb-npm-notice": "^1.1.0"
+  }
+}
