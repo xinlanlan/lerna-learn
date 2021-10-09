@@ -7,4 +7,4 @@ console.log(111)
 console.log(333)
 console.log(121212121)
 
-console.log(chalk.red('1212'))
+console.log(chalk.red('122'))
