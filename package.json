@@ -8,9 +8,15 @@
     "standard-version": "standard-version",
     "postpublish": "wb-npm-notice"
   },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/@instructure/cz-lerna-changelog"
+    }
+  },
   "devDependencies": {
     "@commitlint/cli": "^13.1.0",
     "@commitlint/config-conventional": "^13.1.0",
+    "@instructure/cz-lerna-changelog": "^8.10.2",
     "commitizen": "^4.2.4",
     "cz-lerna-changelog": "^2.0.3",
     "eslint": "^7.32.0",
