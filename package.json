@@ -4,7 +4,7 @@
     "packages/*"
   ],
   "scripts": {
-    "push": "node release.script.js",
+    "push": "lerna version && node release.script.js",
     "changelog": "conventional-changelog -p angular -i CHANGELOG.md -s -r 0",
     "standard-version": "standard-version",
     "postpublish": "wb-npm-notice",
