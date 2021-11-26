@@ -8,7 +8,8 @@
     "bootstrap": {
       "hoist": true
     },
-    "publish": {
+    "version": {
+      "conventionalCommits": true,
       "ignoreChanges": [
         "**/*.md"
       ],
