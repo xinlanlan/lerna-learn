@@ -3,6 +3,19 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.0.11](https://github.com/xinlanlan/lerna-learn/compare/v2.0.10...v2.0.11) (2021-11-26)
+
+
+### Bug Fixes
+
+* 修改配置 ([7613b1a](https://github.com/xinlanlan/lerna-learn/commit/7613b1a40f064acb340c8d6ffd1aac336be7ef1c))
+* 修改配置 ([c3b1b64](https://github.com/xinlanlan/lerna-learn/commit/c3b1b646b66789dfd06caf954145a3c03d98f8a7))
+* 修改hausy ([76f6835](https://github.com/xinlanlan/lerna-learn/commit/76f6835319deab75ca5c4d1a4b6d97506874a14d))
+
+
+
+
+
 ## [2.0.9](https://github.com/xinlanlan/lerna-learn/compare/v2.0.8...v2.0.9) (2021-11-26)
 
 
