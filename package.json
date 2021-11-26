@@ -4,21 +4,19 @@
     "packages/*"
   ],
   "scripts": {
-    "push": "lerna version && node release.script.js",
+    "version": "lerna version && node release.script.js",
     "changelog": "conventional-changelog -p angular -i CHANGELOG.md -s -r 0",
     "standard-version": "standard-version",
-    "postpublish": "wb-npm-notice",
-    "commit": "./node_modules/.bin/git-cz"
+    "commit": "./node_modules/.bin/git-cz",
+    "build": "lerna run publish"
   },
   "devDependencies": {
-    "@commitlint/cli": "^13.1.0",
-    "@commitlint/config-conventional": "^13.1.0",
-    "@instructure/cz-lerna-changelog": "^8.10.2",
+    "@commitlint/cli": "^15.0.0",
+    "@commitlint/config-conventional": "^15.0.0",
     "commitizen": "^4.2.4",
     "conventional-changelog": "^3.1.24",
     "conventional-changelog-cli": "^2.1.1",
     "cz-conventional-changelog": "^3.3.0",
-    "cz-lerna-changelog": "^2.0.3",
     "eslint": "^7.32.0",
     "eslint-plugin-import": "^2.24.2",
     "eslint-plugin-node": "^11.1.0",
@@ -27,11 +25,11 @@
     "eslint-plugin-standard": "^5.0.0",
     "eslint-plugin-vue": "^7.17.0",
     "eslint-plugin-vue-libs": "^4.0.0",
-    "husky": "^7.0.2",
+    "husky": "^7.0.4",
     "lerna": "^4.0.0",
     "lint-staged": "^11.1.2",
     "standard": "^16.0.3",
-    "wb-npm-notice": "^1.1.0"
+    "wb-cli-service": "^2.0.0-alpha.7"
   },
   "config": {
     "commitizen": {
