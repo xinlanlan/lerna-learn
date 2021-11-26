@@ -11,9 +11,6 @@ module.exports = {
 
     css: { // 选填
         extract: true
-        // modules: false,
-        // sourceMap: false,
-        // loaderOptions: {}
     },
 
     chainWebpack: () => { },
