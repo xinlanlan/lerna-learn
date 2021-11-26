@@ -9,11 +9,12 @@
       "hoist": true
     },
     "version": {
+      "conventionalCommits": true,
       "ignoreChanges": [
         "**/*.md"
       ],
       "message": "chore: publish %s"
     }
   },
-  "version": "2.0.10"
+  "version": "2.0.9"
 }
