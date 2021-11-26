@@ -1,6 +1,11 @@
 # [](https://github.com/xinlanlan/lerna-learn/compare/v2.0.7...v) (2021-11-26)
 
 
+### Bug Fixes
+
+* 修改lerna的配置 ([901ee60](https://github.com/xinlanlan/lerna-learn/commit/901ee604a3ad8ce85c640a7e272342c5fa6c60a1))
+
+
 
 ## [2.0.7](https://github.com/xinlanlan/lerna-learn/compare/v2.0.6...v2.0.7) (2021-11-26)
 
