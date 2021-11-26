@@ -15,5 +15,5 @@ module.exports = {
 
     chainWebpack: () => { },
 
-    configureWebpack: {} // 选填
+    configureWebpack: {}
 };
