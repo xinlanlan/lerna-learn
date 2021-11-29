@@ -1,3 +1,4 @@
+asdfas
 # [2.0.0](https://github.com/xinlanlan/lerna-learn/compare/v2.0.11...v2.0.0) (2021-11-29)
 
 
@@ -7,8 +8,6 @@
 * 修改版本哦配置 ([39e11a6](https://github.com/xinlanlan/lerna-learn/commit/39e11a66ccc0c36ea5350021d0f52ae7040b3774))
 
 
-
-# [2.0.0](https://github.com/xinlanlan/lerna-learn/compare/v2.0.11...v2.0.0) (2021-11-29)
 
 aasdfas
 
