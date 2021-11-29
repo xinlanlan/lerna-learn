@@ -1,7 +1,6 @@
 #!/usr/bin/env node
 // const add = require('ssf-lerna-2')
 const chalk = require('chalk')
-console.log(12)
 
 // console.log(add(100, 222))
 console.log(111)
