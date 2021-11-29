@@ -1,7 +1,6 @@
-# Change Log
+# [2.0.0](https://github.com/xinlanlan/lerna-learn/compare/v2.0.14...v2.0.0) (2021-11-29)
 
-All notable changes to this project will be documented in this file.
-See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
 
 ## [2.0.14](https://github.com/xinlanlan/lerna-learn/compare/v2.0.13...v2.0.14) (2021-11-29)
 
@@ -9,12 +8,6 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 ### Bug Fixes
 
 * 修改learn-1 ([ef87052](https://github.com/xinlanlan/lerna-learn/commit/ef87052fa4b7c78b0cfcd37c527b11d6e8018722))
-
-
-
-
-
-# [2.0.0](https://github.com/xinlanlan/lerna-learn/compare/v2.0.13...v2.0.0) (2021-11-29)
 
 
 
@@ -130,3 +123,6 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 ## 2.0.1-alpha.0 (2021-10-09)
+
+
+
