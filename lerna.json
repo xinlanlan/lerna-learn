@@ -9,7 +9,6 @@
       "hoist": true
     },
     "version": {
-      "conventionalCommits": true,
       "ignoreChanges": [
         "**/*.md"
       ],
