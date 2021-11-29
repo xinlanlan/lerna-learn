@@ -1,3 +1,13 @@
+# [2.0.0](https://github.com/xinlanlan/lerna-learn/compare/v2.0.11...v2.0.0) (2021-11-29)
+
+aasdfas
+
+### Bug Fixes
+
+* 配置修改 ([d17f4e4](https://github.com/xinlanlan/lerna-learn/commit/d17f4e449f86c86908c0106cbcac74c97f9ba05d))
+
+
+
 # Change Log
 
 All notable changes to this project will be documented in this file.
