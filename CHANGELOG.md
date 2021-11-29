@@ -1,4 +1,13 @@
-# [2.0.0](https://github.com/xinlanlan/lerna-learn/compare/v2.0.14...v2.0.0) (2021-11-29)
+# [2.0.0](https://github.com/xinlanlan/lerna-learn/compare/v2.0.15...v2.0.0) (2021-11-29)
+
+
+
+## [2.0.15](https://github.com/xinlanlan/lerna-learn/compare/v2.0.14...v2.0.15) (2021-11-29)
+
+
+### Bug Fixes
+
+* last commit ([a9a75fb](https://github.com/xinlanlan/lerna-learn/commit/a9a75fb0b386bb543238e9665252cc1c1b6c1681))
 
 
 
