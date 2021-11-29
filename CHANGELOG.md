@@ -1,26 +1,20 @@
-asdfas
-# [2.0.0](https://github.com/xinlanlan/lerna-learn/compare/v2.0.11...v2.0.0) (2021-11-29)
+# Change Log
+
+All notable changes to this project will be documented in this file.
+See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
+## [2.0.12](https://github.com/xinlanlan/lerna-learn/compare/v2.0.11...v2.0.12) (2021-11-29)
 
 
 ### Bug Fixes
 
 * 配置修改 ([d17f4e4](https://github.com/xinlanlan/lerna-learn/commit/d17f4e449f86c86908c0106cbcac74c97f9ba05d))
 * 修改版本哦配置 ([39e11a6](https://github.com/xinlanlan/lerna-learn/commit/39e11a66ccc0c36ea5350021d0f52ae7040b3774))
+* 修改lerna配置 ([3db2cf3](https://github.com/xinlanlan/lerna-learn/commit/3db2cf327e5335fe095a7b1bd9a776bf66692fc4))
 
 
 
-aasdfas
 
-### Bug Fixes
-
-* 配置修改 ([d17f4e4](https://github.com/xinlanlan/lerna-learn/commit/d17f4e449f86c86908c0106cbcac74c97f9ba05d))
-
-
-
-# Change Log
-
-All notable changes to this project will be documented in this file.
-See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
 hhah
 
