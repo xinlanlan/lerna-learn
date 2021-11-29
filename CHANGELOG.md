@@ -1,5 +1,15 @@
 # [2.0.0](https://github.com/xinlanlan/lerna-learn/compare/v2.0.11...v2.0.0) (2021-11-29)
 
+
+### Bug Fixes
+
+* 配置修改 ([d17f4e4](https://github.com/xinlanlan/lerna-learn/commit/d17f4e449f86c86908c0106cbcac74c97f9ba05d))
+* 修改版本哦配置 ([39e11a6](https://github.com/xinlanlan/lerna-learn/commit/39e11a66ccc0c36ea5350021d0f52ae7040b3774))
+
+
+
+# [2.0.0](https://github.com/xinlanlan/lerna-learn/compare/v2.0.11...v2.0.0) (2021-11-29)
+
 aasdfas
 
 ### Bug Fixes
