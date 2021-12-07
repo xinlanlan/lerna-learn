@@ -1,4 +1,13 @@
-# [2.0.0](https://github.com/xinlanlan/lerna-learn/compare/v2.0.21...v2.0.0) (2021-12-07)
+# [2.0.0](https://github.com/xinlanlan/lerna-learn/compare/v2.0.22-alpha.0...v2.0.0) (2021-12-07)
+
+
+
+## [2.0.22-alpha.0](https://github.com/xinlanlan/lerna-learn/compare/v2.0.21...v2.0.22-alpha.0) (2021-12-07)
+
+
+### Bug Fixes
+
+* 发布lahoa ([2c0259d](https://github.com/xinlanlan/lerna-learn/commit/2c0259d22f62495ea2260eb22639aa973944b7a0))
 
 
 
