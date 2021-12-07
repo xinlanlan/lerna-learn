@@ -1,4 +1,13 @@
-# [2.0.0](https://github.com/xinlanlan/lerna-learn/compare/v2.0.16...v2.0.0) (2021-12-07)
+# [2.0.0](https://github.com/xinlanlan/lerna-learn/compare/v2.0.17...v2.0.0) (2021-12-07)
+
+
+
+## [2.0.17](https://github.com/xinlanlan/lerna-learn/compare/v2.0.16...v2.0.17) (2021-12-07)
+
+
+### Bug Fixes
+
+* 修改为17版本 ([badf256](https://github.com/xinlanlan/lerna-learn/commit/badf256c10b67db00e90ebf9b1be981e47bf7e76))
 
 
 
