@@ -1,10 +1,20 @@
-# [2.0.0](https://github.com/xinlanlan/lerna-learn/compare/v2.0.29...v2.0.0) (2021-12-07)
+# [2.0.0](https://github.com/xinlanlan/lerna-learn/compare/v2.0.30...v2.0.0) (2021-12-07)
+
+
+
+## [2.0.30](https://github.com/xinlanlan/lerna-learn/compare/v2.0.29...v2.0.30) (2021-12-07)
 
 
 ### Bug Fixes
 
+* 修改 ([f31ef30](https://github.com/xinlanlan/lerna-learn/commit/f31ef30f2a4016cc677e34151ce4e86ea74150e1))
 * 修改1 ([79680f3](https://github.com/xinlanlan/lerna-learn/commit/79680f313d1686e8e0b08082298b3c5960ee5a05))
 * 修改包2 ([1905df9](https://github.com/xinlanlan/lerna-learn/commit/1905df97ecc37ba66363dc5c0325aee420a788e3))
+* 修改了两个包 ([36bd5b5](https://github.com/xinlanlan/lerna-learn/commit/36bd5b5d5db8515f3fbf59598d427f3ef2699649))
+* 修改配置 ([668d746](https://github.com/xinlanlan/lerna-learn/commit/668d746ed846fa8b7da04c1c8773c11e7d713b3d))
+* 修改配置 ([6362dd5](https://github.com/xinlanlan/lerna-learn/commit/6362dd5b8977a5e084d7371de4a938e352b43524))
+* 修改配置 ([b83bb9a](https://github.com/xinlanlan/lerna-learn/commit/b83bb9a49c3562f832125e20d2244af971c9cfc3))
+* 修改配置 ([755133b](https://github.com/xinlanlan/lerna-learn/commit/755133b1f55f68b68a568137f09a7305c2eaf280))
 * 修改配置 ([718ccd9](https://github.com/xinlanlan/lerna-learn/commit/718ccd936a317d3c947643c4ad3c669ec97f2e6a))
 * 修改配置 ([01665c0](https://github.com/xinlanlan/lerna-learn/commit/01665c0f5305281a1cbd9a0e7c1946d39bf19578))
 * xfasfa ([0f3d66a](https://github.com/xinlanlan/lerna-learn/commit/0f3d66aadcd46fe352b187c39dde303d18da6474))
