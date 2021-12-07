@@ -12,8 +12,7 @@
       "ignoreChanges": [
         "**/*.md"
       ],
-      "message": "chore: publish %s",
-      "gitTagVersion": false
+      "message": "chore: publish %s"
     }
   },
   "gitTagVersion": false,
