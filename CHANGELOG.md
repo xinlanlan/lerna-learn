@@ -5,7 +5,9 @@
 
 * 修改1 ([79680f3](https://github.com/xinlanlan/lerna-learn/commit/79680f313d1686e8e0b08082298b3c5960ee5a05))
 * 修改包2 ([1905df9](https://github.com/xinlanlan/lerna-learn/commit/1905df97ecc37ba66363dc5c0325aee420a788e3))
+* 修改配置 ([718ccd9](https://github.com/xinlanlan/lerna-learn/commit/718ccd936a317d3c947643c4ad3c669ec97f2e6a))
 * 修改配置 ([01665c0](https://github.com/xinlanlan/lerna-learn/commit/01665c0f5305281a1cbd9a0e7c1946d39bf19578))
+* xfasfa ([0f3d66a](https://github.com/xinlanlan/lerna-learn/commit/0f3d66aadcd46fe352b187c39dde303d18da6474))
 
 
 
