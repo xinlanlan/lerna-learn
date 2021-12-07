@@ -117,7 +117,7 @@
 
 
 
-## [2.0.5](https://github.com/xinlanlan/lerna-learn/compare/v2.0.1...v2.0.5) (2021-10-09)
+## [2.0.5](https://github.com/xinlanlan/lerna-learn/compare/e0c41be68bd8229b71e90faccaa6fa5cae8bda11...v2.0.5) (2021-10-09)
 
 
 ### Bug Fixes
@@ -128,16 +128,8 @@
 
 ### Features
 
-* 修改2 ([339cbd2](https://github.com/xinlanlan/lerna-learn/commit/339cbd21112e208d8ad376fe33ccb5a5e0aaf7f6))
-
-
-
-## [2.0.1](https://github.com/xinlanlan/lerna-learn/compare/e0c41be68bd8229b71e90faccaa6fa5cae8bda11...v2.0.1) (2021-10-09)
-
-
-### Features
-
 * 发版test1 ([e0c41be](https://github.com/xinlanlan/lerna-learn/commit/e0c41be68bd8229b71e90faccaa6fa5cae8bda11))
+* 修改2 ([339cbd2](https://github.com/xinlanlan/lerna-learn/commit/339cbd21112e208d8ad376fe33ccb5a5e0aaf7f6))
 
 
 
