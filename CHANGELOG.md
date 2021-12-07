@@ -3,6 +3,7 @@
 
 ### Bug Fixes
 
+* 修改1 ([79680f3](https://github.com/xinlanlan/lerna-learn/commit/79680f313d1686e8e0b08082298b3c5960ee5a05))
 * 修改包2 ([1905df9](https://github.com/xinlanlan/lerna-learn/commit/1905df97ecc37ba66363dc5c0325aee420a788e3))
 * 修改配置 ([01665c0](https://github.com/xinlanlan/lerna-learn/commit/01665c0f5305281a1cbd9a0e7c1946d39bf19578))
 
