@@ -1,5 +1,5 @@
 const shell = require('shelljs');
-const version = require('lerna').version;
+const version = require('./lerna').version;
 console.log(version)
 
 const main = async () => {
