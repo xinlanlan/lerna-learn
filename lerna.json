@@ -15,5 +15,6 @@
       "message": "chore: publish %s"
     }
   },
+  "git-tag-version": false,
   "version": "2.0.27"
 }
