@@ -1,6 +1,11 @@
 # [2.0.0](https://github.com/xinlanlan/lerna-learn/compare/v2.0.15...v2.0.0) (2021-12-07)
 
 
+### Bug Fixes
+
+* 修改各包的changelog ([dd2c475](https://github.com/xinlanlan/lerna-learn/commit/dd2c4751bafed238e94d9f21aa8f48a3f399d487))
+
+
 
 ## [2.0.15](https://github.com/xinlanlan/lerna-learn/compare/v2.0.14...v2.0.15) (2021-11-29)
 
