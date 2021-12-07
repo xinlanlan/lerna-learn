@@ -1,4 +1,8 @@
-# [2.0.0](https://github.com/xinlanlan/lerna-learn/compare/v2.0.27...v2.0.0) (2021-12-07)
+# [2.0.0](https://github.com/xinlanlan/lerna-learn/compare/v2.0.28...v2.0.0) (2021-12-07)
+
+
+
+## [2.0.28](https://github.com/xinlanlan/lerna-learn/compare/v2.0.27...v2.0.28) (2021-12-07)
 
 
 ### Bug Fixes
