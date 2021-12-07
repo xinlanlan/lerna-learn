@@ -20,6 +20,7 @@ const main = async () => {
         // await shell.exec(`git commit -m "docs(build): changelog ${version}"`);
         // await shell.exec('git push');
         await shell.exec(`npm run standard-version -- --release-as ${version}`);
+        await shell.exec('git push --follow-tags origin master');
         await shell.exec('git add -A');
         await shell.exec(`git commit -m "chore(release): release ${version}"`);
         await shell.exec('git push');
