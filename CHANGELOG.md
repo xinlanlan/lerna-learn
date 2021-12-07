@@ -1,13 +1,14 @@
-# [2.0.0](https://github.com/xinlanlan/lerna-learn/compare/v2.0.24-alpha.0...v2.0.0) (2021-12-07)
+# [2.0.0](https://github.com/xinlanlan/lerna-learn/compare/v2.0.24...v2.0.0) (2021-12-07)
 
 
 
-## [2.0.24-alpha.0](https://github.com/xinlanlan/lerna-learn/compare/v2.0.23...v2.0.24-alpha.0) (2021-12-07)
+## [2.0.24](https://github.com/xinlanlan/lerna-learn/compare/v2.0.23...v2.0.24) (2021-12-07)
 
 
 ### Bug Fixes
 
 * 修改策略notag ([7073b77](https://github.com/xinlanlan/lerna-learn/commit/7073b773a2cab3733cd61f3e167cced808ed0e0a))
+* 修改配置 ([20ebbaf](https://github.com/xinlanlan/lerna-learn/commit/20ebbafcdecd3a70bd882839019c57e01d757f55))
 
 
 
