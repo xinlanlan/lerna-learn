@@ -32,6 +32,7 @@
     "lerna": "^4.0.0",
     "lint-staged": "^11.1.2",
     "standard": "^16.0.3",
+    "standard-version": "^9.3.2",
     "wb-cli-service": "^2.0.0-alpha.7"
   },
   "config": {

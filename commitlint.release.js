@@ -18,6 +18,7 @@ const main = async () => {
         await shell.exec('npm run changelog');
         await shell.exec('git add -A');
         await shell.exec(`git commit -m "docs(build): changelog ${version}"`);
+        await shell.exec(`git rebase -i HEAD~2`);
         await shell.exec('git push');
     }
 };
