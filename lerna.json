@@ -13,7 +13,7 @@
         "**/*.md"
       ],
       "message": "chore: publish %s",
-      "no-git-tag-version": true
+      "noGitTagVersion": true
     }
   },
   "version": "2.0.23"
