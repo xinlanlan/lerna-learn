@@ -14,7 +14,7 @@ const main = async () => {
         await shell.exec('git add -A');
         await shell.exec(`git commit -m "chore(release): release ${version}"`);
         await shell.exec(`git tag -a v${version} -m "chore(release): ${version}"`);
-        await shell.exec('git push --follow-tags origin master');
+        await shell.exec(`git push origin v${version}`);
         await shell.exec('npm run changelog');
         await shell.exec('git add -A');
         await shell.exec(`git commit -m "docs(build): changelog ${version}"`);
