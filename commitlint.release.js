@@ -1,6 +1,6 @@
 const shell = require('shelljs');
 const version = require('./lerna').version;
-// console.log(version)
+console.log(version)
 
 // const main = async () => {
 //     await shell.exec('git add -A');
