@@ -1,6 +1,6 @@
 {
   "name": "ssf-lerna-2",
-  "version": "2.0.18",
+  "version": "2.0.19-alpha.0",
   "description": "",
   "main": "index.js",
   "bin": {
