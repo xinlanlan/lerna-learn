@@ -1,22 +1,10 @@
-# [2.0.0](https://github.com/xinlanlan/lerna-learn/compare/v3.0.0-alpha.0...v2.0.0) (2021-12-07)
-
-
-
-# [3.0.0-alpha.0](https://github.com/xinlanlan/lerna-learn/compare/v2.0.23-alpha.0...v3.0.0-alpha.0) (2021-12-07)
-
-
-### Bug Fixes
-
-* 修改包二 ([c06a769](https://github.com/xinlanlan/lerna-learn/commit/c06a7692765ec2a6c2fefd23a1afecac7c16d798))
-
-
-
-## [2.0.23-alpha.0](https://github.com/xinlanlan/lerna-learn/compare/v2.0.22...v2.0.23-alpha.0) (2021-12-07)
+# [2.0.0](https://github.com/xinlanlan/lerna-learn/compare/v2.0.22...v2.0.0) (2021-12-07)
 
 
 ### Bug Fixes
 
 * 修改包1 ([8ec73fd](https://github.com/xinlanlan/lerna-learn/commit/8ec73fd16fe4a6f04d5c01a31855653a7ca45e72))
+* 修改包二 ([c06a769](https://github.com/xinlanlan/lerna-learn/commit/c06a7692765ec2a6c2fefd23a1afecac7c16d798))
 
 
 
