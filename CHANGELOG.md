@@ -1,3 +1,14 @@
+# Changelog
+
+All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
+
+### [2.0.33](https://github.com/xinlanlan/lerna-learn/compare/v2.0.32...v2.0.33) (2021-12-07)
+
+
+### Bug Fixes
+
+* 修改包1 ([69debb0](https://github.com/xinlanlan/lerna-learn/commit/69debb035314893ea1c36ba4ea67589929f01eb8))
+
 # [2.0.0](https://github.com/xinlanlan/lerna-learn/compare/v2.0.32...v2.0.0) (2021-12-07)
 
 
@@ -279,6 +290,3 @@
 
 * 发版test1 ([e0c41be](https://github.com/xinlanlan/lerna-learn/commit/e0c41be68bd8229b71e90faccaa6fa5cae8bda11))
 * 修改2 ([339cbd2](https://github.com/xinlanlan/lerna-learn/commit/339cbd21112e208d8ad376fe33ccb5a5e0aaf7f6))
-
-
-
