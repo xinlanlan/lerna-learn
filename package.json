@@ -6,7 +6,7 @@
   ],
   "scripts": {
     "prepare": "husky install",
-    "version": "lerna version && node commitlint.release.js",
+    "prerelease": "lerna version && node commitlint.release.js",
     "a": "lerna version && node commitlint.script.js",
     "changelog": "conventional-changelog -p angular -i CHANGELOG.md -s -r 0",
     "standard-version": "standard-version",
