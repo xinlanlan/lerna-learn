@@ -1,6 +1,11 @@
 # [2.0.0](https://github.com/xinlanlan/lerna-learn/compare/v2.0.25...v2.0.0) (2021-12-07)
 
 
+### Bug Fixes
+
+* alst ([4c23512](https://github.com/xinlanlan/lerna-learn/commit/4c23512f9fac2a04633329c9501907d2df83ab41))
+
+
 
 ## [2.0.25](https://github.com/xinlanlan/lerna-learn/compare/v2.0.24...v2.0.25) (2021-12-07)
 
