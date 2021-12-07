@@ -7,8 +7,7 @@
   "scripts": {
     "prepare": "husky install",
     "version": "lerna version && node commitlint.script.js",
-    "version1": "lerna version && node commitlint.release.js",
-    "version2": "lerna version --no-git-tag-version && node commitlint.release.js",
+    "a": "lerna version && node commitlint.release.js",
     "changelog": "conventional-changelog -p angular -i CHANGELOG.md -s -r 0",
     "standard-version": "standard-version",
     "commit": "./node_modules/.bin/git-cz",
