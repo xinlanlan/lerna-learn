@@ -1,0 +1,16 @@
+{
+    "types": [
+        {"type": "build", "hidden": true},
+        {"type": "chore", "hidden": true},
+        {"type": "ci", "hidden": true},
+        {"type": "docs", "hidden": true},
+        {"type": "feat", "section": "🌟 Features"},
+        {"type": "fix", "section": "🐛 Bug Fixes"},
+        {"type": "improvement", "hidden": true},
+        {"type": "perf", "hidden": true},
+        {"type": "refactor", "section": "💥 Refactoring Code"},
+        {"type": "revert", "hidden": true},
+        {"type": "style", "hidden": true},
+        {"type": "test", "hidden": true}
+    ]
+}
